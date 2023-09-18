@@ -1,0 +1,643 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+nav{
+    background-color: #2874f0;
+    display: flex;
+    justify-content:center;
+    padding: 10px 0px;
+   
+}
+.logo1{
+    height: 22px;
+    width: 75px;
+}
+.logo2{
+    height: 10px;
+    width: 10px;
+}
+#color{
+    color: yellow;
+    font-weight: bold;
+}
+.logo p{
+    color: white;
+    position: relative;;
+    top: -5px;
+    font-style: italic;
+    font-size: 12px
+}
+.search{
+    background-color: white;
+    padding: 8px;
+    width: 490px;
+    height: 20px;
+    margin: 3px 12px;
+    display: flex;
+    justify-content: space-between;
+    color: #2874f0;
+    /* box-shadow: 3px 0px 10px #8e6565, 0px 2px 10px #3d2b2b; */
+    border-radius: 2px;
+}
+.search i{
+    position: relative;
+    top: 3px;
+}
+.search input{
+    width: 450px;
+    border:none;
+    outline: none;
+    font-size:14px;
+
+}
+.login{
+    padding: 7px 40px;
+    margin: 5px 36px;
+    font-size: 16px;
+    font-weight: 550;
+    border: none;
+    outline: none;
+    color: #2874f0;
+}
+.login1{
+    text-decoration: none;
+    color: #2874f0;
+}
+.link{
+    margin: 0px 20px;
+    font-size: 18px;
+    color: white;
+    text-decoration: none;
+    position: relative;
+    top:12px
+
+}
+.angledown i{
+    font-size: 10px;
+}
+.nav2{
+   
+    
+    height: 90px;
+   
+    /* display: inline-block; */
+   
+    
+}
+
+
+
+ .step1 img{
+    height: 64px;
+    width: 64px;
+    position: relative;
+    left: 10%;
+}
+.surf{
+    position: relative;
+    left: 10%;
+
+}
+.step2 img{
+    height: 64px;
+    width: 64px;
+    position: relative;
+    left: 19%;
+    top: -85px;
+}
+.mobail{
+    position: relative;
+    left: 19%;
+    top: -85px;
+
+}
+ .step3 img{
+    height: 64px;
+    width: 64px;
+    position: relative;
+    left: 29%;
+    top: -175px;
+}
+.boy{
+    position: relative;
+    left: 29%;
+    top: -171px;
+
+} 
+.step4 img{
+    height: 64px;
+    width: 64px;
+    position: relative;
+    left: 85%;
+    top: -255px;
+}
+.bike{
+    position: relative;
+    left: 85%;
+    top: -259px;
+
+} 
+.step5 img{
+    height: 64px;
+    width: 64px;
+    position: relative;
+    left: 74%;
+    bottom: 342px;
+}
+.taddy{
+    position: relative;
+    left: 72.5%;
+    bottom: 346px;
+
+} 
+.step6 img{
+    height: 64px;
+    width: 64px;
+    position: relative;
+    left: 63%;
+    bottom: 428px;
+}
+.home{
+    position: relative;
+    left: 61%;
+    bottom: 428px;
+
+}
+.step7 img{
+    height: 64px;
+    width: 64px;
+    position: relative;
+    left: 52%;
+    bottom: 514px
+}
+.ele{
+    position: relative;
+    left: 51.5%;
+    bottom: 514px
+
+}
+.step8 img{
+    height: 64px;
+    width: 64px;
+    position: relative;
+    left: 41%;
+    bottom: 601px;
+}
+.app{
+    position: relative;
+    left: 41%;
+    bottom: 601px;
+
+}
+.banner img{
+    height: 355px;
+    width: 1520px;
+    position: relative;
+    top: 6px;
+    box-shadow: 0px 4px 19px #968686;
+    padding: 1.5px 5px;
+    
+}
+.off{
+    position: relative;
+    top: -200px;
+    left: 13%;
+    font-size: 21px;
+    font-weight: bold;
+}
+.line3 img{
+    background-position: 0px bottom;
+    position: relative;
+    top: 198px;
+    left: -8%;
+}
+.line3a{
+    padding: 6px 6px;
+    box-shadow: 0px 4px 19px #968686;
+}
+.line3c{
+    margin: -36px;
+}
+
+.view{
+    left: 14%;
+    position: relative;
+    top: 56px;
+    text-decoration: none;
+    background-color: #2874f0;;
+    color: white;
+    padding: 11px 19px;
+    left: 6%;
+}
+.view1{
+    left: 14%;
+    position: relative;
+    top: 113px;
+    text-decoration: none;
+    background-color: #2874f0;;
+    color: white;
+    padding: 11px 19px;
+    left: 4%;
+}
+.best{
+    font-size: 34px;
+    position: relative;
+    left: 4%;
+    top: 135px;
+}
+.best1{
+    font-size: 34px;
+    position: relative;
+    left: 4%;
+    top: 74px;
+}
+#span{
+    position: relative;
+    left: 2%;
+}
+#span1{
+    position: relative;
+    left: 0%;
+}
+.ll{
+    display: flex;
+    justify-content: center;
+    padding: 1px 177px;
+}
+.shaver img{
+    position: relative;
+    top: -67%;
+    right: -231%;
+}
+.shaverA img{
+    position: relative;
+    top: -77%;
+    right: -104%;
+}
+.shaverB img{
+    position: relative;
+    top: -72%;
+    right: -96%;
+}
+.shaver1{
+    font-size: 20px;
+    position: relative;
+    top: 73px;
+    right: -10%;
+
+}
+.shaver1A{
+    font-size: 20px;
+    position: relative;
+    top: 59px;
+    right: 0%;
+
+}
+.shaver1{
+    font-size: 20px;
+    position: relative;
+    top: 73px;
+    right: -10%;
+
+}
+.shaver1B{
+    font-size: 20px;
+    position: relative;
+    top: 73px;
+    right: -3%;
+
+}
+.shaver2{
+    font-size: 18px;
+    position: relative;
+    top: -83px;
+    left: 24.5%;
+    color: green;
+}
+.shaver2A{
+    font-size: 18px;
+    position: relative;
+    top: -83px;
+    left: 24.5%;
+    color: green;
+}
+.shaver2B{
+    font-size: 18px;
+    position: relative;
+    top: -83px;
+    left: 24.5%;
+    color: green;
+}
+.shaver2a{
+    font-size: 18px;
+    position: relative;
+    top: -68px;
+    left: 21%;
+    color: #a18e8e;
+    font-style: normal;
+}
+.shaver2aA{
+    font-size: 18px;
+    position: relative;
+    top: -68px;
+    left: 21%;
+    color: #a18e8e;
+    font-style: normal;
+}
+.shaver2aB{
+    font-size: 18px;
+    position: relative;
+    top: -68px;
+    left: 21%;
+    color: #a18e8e;
+    font-style: normal;
+}
+.shaver3{
+    font-size: 18px;
+    position: relative;
+    top: -86px;
+
+    left: 42.5%;
+    color: green;
+}
+.shaver3A{
+    font-size: 18px;
+    position: relative;
+    top: -83px;
+    left: 47.5%;
+    color: green;
+}
+.shaver3B{
+    font-size: 18px;
+    position: relative;
+    top: -86px;
+
+    left: 42.5%;
+    color: green;
+}
+.shaver3a{
+    font-size: 18px;
+    position: relative;
+    top: -75px;
+    left: 41%;
+    color: #a18e8e;
+    font-style: normal;
+}
+.shaver3aA{
+    font-size: 18px;
+    position: relative;
+    top: -75px;
+    left: 46%;
+    color: #a18e8e;
+    font-style: normal;
+}
+.shaver3aB{
+    font-size: 18px;
+    position: relative;
+    top: -75px;
+    left: 41%;
+    color: #a18e8e;
+    font-style: normal;
+}
+.shaver4{
+    font-size: 18px;
+    position: relative;
+    top: -97px;
+
+    left: 66.5%;
+    color: green;
+}
+.shaver4A{
+    font-size: 18px;
+    position: relative;
+    top: -97px;
+
+    left: 66.5%;
+    color: green;
+}
+.shaver4B{
+    font-size: 18px;
+    position: relative;
+    top: -97px;
+
+    left: 62.5%;
+    color: green;
+}
+.shaver4a{
+    font-size: 18px;
+    position: relative;
+    top: -83px;
+    left: 69%;
+    color: #a18e8e;
+    font-style: normal;
+}
+.shaver4aA{
+    font-size: 18px;
+    position: relative;
+    top: -83px;
+    left: 69%;
+    color: #a18e8e;
+    font-style: normal;
+}
+.shaver4aB{
+    font-size: 18px;
+    position: relative;
+    top: -83px;
+    left: 65%;
+    color: #a18e8e;
+    font-style: normal;
+}
+.shaver5{
+    font-size: 18px;
+    position: relative;
+    top: -106px;
+    left: 83.5%;
+    color: green;
+}
+.shaver5A{
+    font-size: 18px;
+    position: relative;
+    top: -106px;
+    left: 83.5%;
+    color: green;
+}
+.shaver5B{
+    font-size: 18px;
+    position: relative;
+    top: -106px;
+    left: 83.5%;
+    color: green;
+}
+.shaver5a{
+    font-size: 18px;
+    position: relative;
+    top: -88px;
+    left: 84%;
+    color: #a18e8e;
+    font-style: normal;
+}
+.shaver5aA{
+    font-size: 18px;
+    position: relative;
+    top: -88px;
+    left: 84%;
+    color: #a18e8e;
+    font-style: normal;
+}
+.shaver5aB{
+    font-size: 18px;
+    position: relative;
+    top: -88px;
+    left: 84%;
+    color: #a18e8e;
+    font-style: normal;
+}
+#rup{
+    font-size: 12px;
+}
+.camera{
+    position: relative;
+    top: -90px;
+    right: -21%;
+}
+.cameraB{
+    position: relative;
+    top: -142px;
+    right: -19%;
+}
+.cameraA{
+    position: relative;
+    top: -147px;
+    right: -21%;
+}
+.cameraa{
+    font-size: 20px;
+    position: relative;
+    top: 68px;
+    right: -7%;
+}
+.cameraaA{
+    font-size: 20px;
+    position: relative;
+    top: 68px;
+    right: -7%;
+}
+.cameraaB{
+    font-size: 20px;
+    position: relative;
+    top: 68px;
+    right: -7%;
+}
+.monitor img{
+    position: relative;
+    top: -113px;
+    right: -115%;
+}
+.monitorA img{
+    position: relative;
+    top: -179px;
+    right: -174%;
+}
+.monitorB img{
+    position: relative;
+    top: -113px;
+    right: -115%;
+}
+.monitora{
+    font-size: 20px;
+    position: relative;
+    top: 52px;
+    right: -7%;
+}
+.monitoraA{
+    font-size: 20px;
+    position: relative;
+    top: 52px;
+    right: -7%;
+}
+.monitoraB{
+    font-size: 20px;
+    position: relative;
+    top: 52px;
+    right: -7%;
+}
+.printer img{
+    position: relative;
+    top: -113px;
+    right: -115%;
+}
+.printerA img{
+    position: relative;
+    top: -113px;
+    right: -115%;
+}
+.printerB img{
+    position: relative;
+    top: -136px;
+    right: -156%;
+}
+.printer1{
+    font-size: 20px;
+    position: relative;
+    top: 74px;
+    right: -9%;
+}
+.printer1A{
+    font-size: 20px;
+    position: relative;
+    top: 74px;
+    right: -9%;
+}
+.printer1B{
+    font-size: 20px;
+    position: relative;
+    top: 74px;
+    right: -9%;
+}
+footer{
+    background-color:rgb(6, 6, 67);
+    color: white;
+    display: grid;
+    grid-template-columns: 6fr 6fr;
+    padding: 64px;
+}
+.left-panel{
+    display: grid;
+    grid-template-columns: 3fr 3fr 3fr 3fr;
+}
+.right-panel{
+    display: grid;
+    grid-template-columns: 6fr 6fr ;
+    border-left: 1px solid white;
+    padding-left: 20px;
+
+}
+.footer-title{
+    color: silver;
+}
+.footer-title~div{
+ margin-bottom: 10px;
+}
+#hellow{
+    position: relative;
+    top: 82px;
+}
+#hellow1{
+    position: relative;
+    top: 83px;
+    left: -54%;
+}
+
+#hellow2{
+    position: relative;
+    top: 30px;
+    left: 14%;
+}
+
+#hellow3{
+    position: relative;
+    top: 30px;
+    right: 70%
+}
+
